@@ -46,7 +46,7 @@ There was no efficient way to do complex algorithms if the link between sources 
 
 We considered standard or well-known URI schemes for [user-named contents](http://www.ietf.org/rfc/rfc4151.txt) such as corpora, [hash contents](http://en.wikipedia.org/wiki/Uniform_Resource_Name#Non-standard_usage) such as resources, and [plain text fragment identifiers](http://tools.ietf.org/html/rfc5147). But we chose the simplest way to refer them (UUIDs and coordinates).
 
-![Data model](class_diagram.png "UML class diagram")
+![Data model](https://github.com/Hypertopic/Protocol/raw/master/class_diagram.png "UML class diagram")
 
 Note: Item-Item will remain unspecified until we have more real cases for it.
 
@@ -247,8 +247,8 @@ GET /attribute/C/A/V
 
 <table><tr>
 <td>GET, POST, PUT, DELETE</td>
-<th>[[Argos]]</th>
-<th>[[Cassandre]]</th>
+<th>Argos</th>
+<th>Cassandre</th>
 </tr><tr>
 <th>/CorpusID</th>
 <td><a href="http://argos2.hypertopic.org/5a03d6d794ec4b9215f7cba8600c24db">X</a></td>
@@ -265,9 +265,9 @@ GET /attribute/C/A/V
 
 <table><tr>
 <td>GET</td>
-<th>[[Argos]]</th>
-<th>[[Cassandre]]</th>
-<th>[[Steatite]]</th>
+<th>Argos</th>
+<th>Cassandre</th>
+<th>Steatite</th>
 </tr><tr>
 <th>/corpus/ID</th>
 <td><a href="http://argos2.hypertopic.org/corpus/5a03d6d794ec4b9215f7cba8600c24db">X</a></td>

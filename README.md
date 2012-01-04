@@ -319,8 +319,8 @@ Hypertopic services can be tested with a generic [REST client](https://addons.mo
 
 ## Client APIs
 
-* [for Java](https://github.com/benel/Porphyry/tree/master/src/org/hypertopic) 
-* [for JavaScript](https://github.com/chao/LaSuli/blob/master/modules/HypertopicMap.js) 
+* [for Java](https://github.com/hypertopic/Porphyry/tree/master/src/org/hypertopic) 
+* [for JavaScript](https://github.com/hypertopic/LaSuli/blob/master/modules/HypertopicMap.js) 
 * [for PHP](http://hypertopic.git.sourceforge.net/git/gitweb.cgi?p=hypertopic/php;a=tree)
 * [for Objective-C](https://github.com/chao/hypertopic)
 

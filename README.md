@@ -37,7 +37,11 @@ To meet these requirements we had to opt for:
 
 * Non-located items
 
-To get the description of an item, clients often need to mash-up attributes and topics stored or generated on different servers. We once implemented a "remote item" mechanism, however this handles as a special case something that will get more and more common (esp. with Argos & Cassandre, Argos & Steatite). Instead we will consider that every item is identified by a UUID which must be checked for links on any known server.
+To get the description of an item, clients often need to mash-up attributes and topics stored or generated on different servers. 
+We once implemented a "remote item" mechanism, however this handles as a special case something that will get more and more common 
+(esp. with [Argos](https://github.com/Hypertopic/Argos/wiki) & [Cassandre](https://github.com/Hypertopic/Cassandre/wiki), 
+[Argos](https://github.com/Hypertopic/Argos/wiki) & [Steatite](https://github.com/Hypertopic/Steatite/wiki)). 
+Instead we will consider that every item is identified by a UUID which must be checked for links on any known server.
 The same approach will be used for other objects, to optimize distribution and service reuse.
 
 * Documentary items

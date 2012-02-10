@@ -263,7 +263,7 @@ GET /attribute/C/A/V
 <td></td>
 </tr><tr>
 <th>/ViewpointID</th>
-<td><a href="http://argos2.hypertopic.org/5a03d6d794ec4b9215f7cba8600c11f7">X</a><td>
+<td><a href="http://argos2.hypertopic.org/5a03d6d794ec4b9215f7cba8600c11f7">X</a></td>
 <td></td>
 </tr></table>
 

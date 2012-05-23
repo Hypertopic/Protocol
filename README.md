@@ -83,7 +83,7 @@ A corpus MUST have a ``corpus_name`` (which can be empty), and MAY have ``users`
 
 ## Item
 
-An item MUST have an ``item_name`` and an ``item_corpus``. It MAY have a ``resource``, ``topics`` (with a ``viewpoint``) and ``highlights`` (with ``coordinates``, ``viewpoint`` and ``topic``). 
+An item MUST have an ``item_corpus``. It MAY have an ``item_name``, a ``resource``, ``topics`` (with a ``viewpoint``) and ``highlights`` (with ``coordinates``, ``viewpoint`` and ``topic``). 
 
 ```javascript
 {

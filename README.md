@@ -276,17 +276,17 @@ GET /attribute/C/A/V
 <th>/corpus/ID</th>
 <td><a href="http://argos2.hypertopic.org/corpus/5a03d6d794ec4b9215f7cba8600c24db">X</a></td>
 <td><a href="http://cassandre.hypertopic.org/corpus/MISS">X</a></td>
-<td><a href="http://steatite.hypertopic.org/corpus/00">X</a></td>
+<td><a href="http://steatite.hypertopic.org/corpus/Megara%20Hyblaea">X</a></td>
 </tr><tr>
 <th>/item/ID/ID</th>
 <td><a href="http://argos2.hypertopic.org/item/5a03d6d794ec4b9215f7cba8600c24db/5a03d6d794ec4b9215f7cba8600c15af">X</a></td>
 <td><a href="http://cassandre.hypertopic.org/item/MISS/e29902013074340b1b52155376000cf0">X</a></td>
-<td><a href="http://steatite.hypertopic.org/item/00/4e61b008c4ffc8823f54c0583f158679c506022f">X</a></td>
+<td><a href="http://steatite.hypertopic.org/item/Megara%20Hyblaea/11b01fcdf9c091452791306f60ae38ce59b2c4f1">X</a></td>
 </tr><tr>
 <th>/item/?resource=URL</th>
 <td><a href="http://argos2.hypertopic.org/item/?resource=http://cassandre/text/d0">X</a></td>
 <td><a href="http://cassandre.hypertopic.org/item/?resource=http://cassandre.hypertopic.org/text/MISS/e29902013074340b1b521553760036a7">X</a></td>
-<td><a href="http://steatite.hypertopic.org/item/?resource=http://steatite.hypertopic.org/picture/4e61b008c4ffc8823f54c0583f158679c506022f">X</a></td>
+<td><a href="http://steatite.hypertopic.org/item/?resource=http://steatite.hypertopic.org/picture/11b01fcdf9c091452791306f60ae38ce59b2c4f1">X</a></td>
 </tr><tr>
 <th>/user/ID</th>
 <td><a href="http://argos2.hypertopic.org/user/cecile@hypertopic.org">X</a></td>

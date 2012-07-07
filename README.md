@@ -147,7 +147,7 @@ GET /corpus/C
   {"key":["C"], "value":{"name":"N1"}},
   {"key":["C"], "value":{"user":"U1"}},
   {"key":["C"], "value":{"user":"U2"}},
-  {"key":["C","I"], "value":{"name":"N2"}},
+  {"key":["C","I"], "value":{"name":"N2","resource":"http://acme/bar"}},
   {"key":["C","I"], "value":{"A":"V"}},
   {"key":["C","I"], "value":{"topic":{"viewpoint":"V1","id":"T1"}}},
   {"key":["C","I", "H"], "value":{"coordinates":[X,Y], "topic":{"viewpoint":"V2", "id":"T2"}}}
@@ -160,7 +160,7 @@ GET /item/C/I
 
 ```javascript
 {"rows":[
-  {"key":["C","I"], "value":{"name":"N2"}},
+  {"key":["C","I"], "value":{"name":"N2","resource":"http://acme/bar"}}, 
   {"key":["C","I"], "value":{"A":"V"}},
   {"key":["C","I"], "value":{"topic":{"viewpoint":"V1","id":"T1"}}},
   {"key":["C","I", "H"], "value":{"coordinates":[X,Y], "topic":{"viewpoint":"V2", "id":"T2"}}}

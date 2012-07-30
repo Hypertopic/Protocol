@@ -313,7 +313,7 @@ GET /attribute/C/A/V
 <td><a href="http://cassandre.hypertopic.org/attribute/IF14/secteur/">X</a></td>
 <td></td>
 </tr><tr>
-<th>/attribute/ID/ZZ/ZZ/</th>
+<th>/attribute/ID/ZZ/ZZ</th>
 <td><a href="http://argos2.hypertopic.org/attribute/5a03d6d794ec4b9215f7cba8600c24db/foo/bar">X</a></td>
 <td><a href="http://cassandre.hypertopic.org/attribute/IF14/secteur/Automobile">X</a></td>
 <td></td>

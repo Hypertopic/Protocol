@@ -330,12 +330,12 @@ Hypertopic services can be tested with a generic [REST client](https://addons.mo
 
 # References
 
-* Jean-Pierre Cahier, Manuel Zacklad, [Expérimentation d’une approche coopérative et multipoint de vue de la construction et de l’exploitation de catalogues commerciaux « actifs »](http://publications.tech-cico.fr/b743575e7c79c308b22e7703b98a81b6). *Document numérique n°3-4, Volume 5*. Hermes, 2001. p.45-64. [FRENCH]
+* Jean-Pierre Cahier, Manuel Zacklad, [Expérimentation d’une approche coopérative et multipoint de vue de la construction et de l’exploitation de catalogues commerciaux « actifs »](http://publications.icd.utt.fr/b743575e7c79c308b22e7703b98a81b6). *Document numérique n°3-4, Volume 5*. Hermes, 2001. p.45-64. [FRENCH]
 
-* Jean Caussanel, Jean-Pierre Cahier, Manuel Zacklad, Jean Charlet. [Les Topic Maps sont-ils un bon candidat pour l'ingénierie du Web Sémantique ?](http://publications.tech-cico.fr/b743575e7c79c308b22e7703b98a4bf8), *Conférence Ingénierie des Connaissances IC'2002, Rouen, Mai 2002*. Prix AFIA de la meilleure présentation. [FRENCH]
+* Jean Caussanel, Jean-Pierre Cahier, Manuel Zacklad, Jean Charlet. [Les Topic Maps sont-ils un bon candidat pour l'ingénierie du Web Sémantique ?](http://publications.icd.utt.fr/b743575e7c79c308b22e7703b98a4bf8), *Conférence Ingénierie des Connaissances IC'2002, Rouen, Mai 2002*. Prix AFIA de la meilleure présentation. [FRENCH]
 
-* Manuel Zacklad, Jean Caussanel, Jean-Pierre Cahier. [Proposition d’un Méta-modèle basé sur les Topic Maps pour la structuration et la recherche d’information](http://publications.tech-cico.fr/b743575e7c79c308b22e7703b98ac908). Atelier Web Sémantique du GRACQ, 2002. [FRENCH]
+* Manuel Zacklad, Jean Caussanel, Jean-Pierre Cahier. [Proposition d’un Méta-modèle basé sur les Topic Maps pour la structuration et la recherche d’information](http://publications.icd.utt.fr/b743575e7c79c308b22e7703b98ac908). Atelier Web Sémantique du GRACQ, 2002. [FRENCH]
 
-* Chao Zhou, Aurélien Bénel, Christophe Lejeune. [Towards a standard protocol for community-driven organizations of knowledge](http://publications.tech-cico.fr/ce329c153e7b8873a03ec02847023ca9). *Proceedings of the thirteenth international conference on Concurrent Engineering, Antibes, September 18-22, 2006. Frontiers in Artificial Intelligence and Appl. vol. 143*. Amsterdam: IOS Press, 2006. p.438-449. 
+* Chao Zhou, Aurélien Bénel, Christophe Lejeune. [Towards a standard protocol for community-driven organizations of knowledge](http://publications.icd.utt.fr/ce329c153e7b8873a03ec02847023ca9). *Proceedings of the thirteenth international conference on Concurrent Engineering, Antibes, September 18-22, 2006. Frontiers in Artificial Intelligence and Appl. vol. 143*. Amsterdam: IOS Press, 2006. p.438-449. 
 
-* Aurélien Bénel, Chao Zhou, Jean-Pierre Cahier. [Beyond Web 2.0... And Beyond the Semantic Web](http://publications.tech-cico.fr/71376a63935238483d1e86d569000d5b). Randall, David; Salembier, Pascal (Eds.). *From CSCW to Web 2.0: European Developments in Collaborative Design*. Computer Supported Cooperative Work. Springer Verlag, 2010. p.155-171.
+* Aurélien Bénel, Chao Zhou, Jean-Pierre Cahier. [Beyond Web 2.0... And Beyond the Semantic Web](http://publications.icd.utt.fr/71376a63935238483d1e86d569000d5b). Randall, David; Salembier, Pascal (Eds.). *From CSCW to Web 2.0: European Developments in Collaborative Design*. Computer Supported Cooperative Work. Springer Verlag, 2010. p.155-171.
